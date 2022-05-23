@@ -1,0 +1,95 @@
+body {
+  font-family: Merriweather, serif;
+  margin: 0 10%;
+}
+
+.container {
+  border: 2px solid #a2a2a6;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+.color-container {
+  width: 100%;
+}
+
+.color-panel {
+  display: inline-block;
+  width: 24%;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;
+}
+
+.grey-teal {
+  background-color: #5b9794;
+  color: #fff;
+}
+
+.periglacial-blue {
+  background-color: #dce7d8;
+  color: #000;
+}
+
+.firefly {
+  background-color: #0d2b37;
+  color: #fff;
+}
+
+.pine {
+  background-color: #2b5a3e;
+  color: #fff;
+}
+
+.font-panel {
+  width: 45%;
+  display: inline-block;
+}
+
+.font-label {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.regular {
+  font-style: normal;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.smooch {
+  font-family: Smooch, cursive;
+  font-size: 20px;
+}
+
+.merriweather {
+  font-family: 'Merriweather', serif;
+}
+
+.rubik {
+  font-family: 'Rubik', sans-serif;
+}
+
+.text-panel h1 {
+  font-weight: 700;
+  font-size: 50px;
+  font-family: Smooch, cursive;
+}
+
+.text-panel h2 {
+  font-weight: 500;
+  font-size: 18px;
+  font-family: 'Merriweather', serif;
+}
+
+.text-panel p {
+  font-weight: 400;
+  font-size: 14px;
+  font-family: 'Rubik', sans-serif;
+}
